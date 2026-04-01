@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1775069852234",
+      "name": "Aditya",
+      "role": "admin",
+      "status": "active"
+    }
+  ],
+  "records": [
+    {
+      "id": "1775069951950",
+      "amount": 5000,
+      "type": "income",
+      "category": "salary",
+      "date": "2026-04-01",
+      "notes": "salary aayi"
+    },
+    {
+      "id": "1775070097930",
+      "amount": 1000,
+      "type": "expense",
+      "category": "food",
+      "date": "2026-04-01",
+      "notes": "khana"
+    }
+  ]
+}
